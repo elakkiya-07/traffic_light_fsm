@@ -1,5 +1,0 @@
-Time resolution is 1 ps
-96 ns: S5 -> S0  ns=001 ew=100
-496 ns: S0 -> S1  ns=010 ew=100
-616 ns: S1 -> S2  ns=100 ew=100
-696 ns: S2 -> S3  ns=100 ew=001
